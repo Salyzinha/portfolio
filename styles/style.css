@@ -3,7 +3,7 @@
 :root {
     --cor--primaria: #557C55;
     --cor--secundaria: #F2FFE9;
-    --cor--terciaria: #FA7070;
+    --cor--terciaria: #EA5E5E;
     --cor--hover: #A6CF98;
 
     --fonte-primaria: 'Krona One', sans-serif;
@@ -103,7 +103,7 @@ body {
 }
 
 .apresentacao__imagem {
-    width: 50%;
+    width: 35%;
 }
 
 .rodape {
@@ -118,11 +118,11 @@ body {
 
 @media (max-width: 1200px) {
 
-.cabecalho {
+    .cabecalho {
     padding: 10%;
 }
 
-.cabecalho__menu {
+    .cabecalho__menu {
     justify-content: center;
 }
 
